@@ -1,2 +1,5 @@
+*.sublime-workspace
 *.code-workspace
+fovdemo.sublime-project
+*.swp
 DS_Store
